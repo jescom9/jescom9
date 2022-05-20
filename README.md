@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @jescom9
-- 👀 I’m interested in ML, Cryptocurrency (Nano), Opencore
-- 🌱 I’m currently learning C++ & Python
+- 👋 Hi, I’m Jesco Melzer
+- 👀 I’m interested in ML, Cryptocurrency
 - 📫 How to reach me Twitter @Jescomelzer
