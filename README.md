@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jesco Melzer
-- 👀 I’m interested in ML, Cryptocurrency
+- 👀 I’m interested in Cryptocurrency
 - 📫 How to reach me Twitter @Jescomelzer
